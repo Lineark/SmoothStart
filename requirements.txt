@@ -1,0 +1,17 @@
+numpy
+
+pandas
+
+scikit-learn
+
+torchfm
+
+wandb
+
+sentence-transformers
+
+matplotlib
+
+torch
+
+tqdm
