@@ -2,9 +2,11 @@
 
 This repository contains the source code for the ICASSP paper: "Smooth Start: A Unified Approach for Gradual Transition from Cold to Old in Recommender Systems".
 
+
 ## Dataset
 
 The Lastfm dataset used in this project can be downloaded from the following link: [Lastfm dataset](https://drive.google.com/drive/folders/1CipSW_DH4fne5w86M3b-00uh3rVRvmLk?usp=sharing)
+
 
 ## Usage
 
@@ -14,6 +16,7 @@ The Lastfm dataset used in this project can be downloaded from the following lin
 pip install -r requirements.txt
 python main_ml.py
 ```
+
 
 ## Contact
 If you have any questions or issues related to this project, please contact me at: 1033051159@qq.com
